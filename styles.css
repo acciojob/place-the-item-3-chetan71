@@ -1,2 +1,11 @@
-
-/* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content: space-between;
+	
+}
+.item{
+	width: 90px;
+	height: 90px;
+	background-color: gray;
+	margin: 10px;
+}
